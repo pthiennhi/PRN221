@@ -1,0 +1,16 @@
+D:\Demo\FU\Adv.NET\Slot_05_06_XML_JSON\Demo_JsonSerializationBehavior\bin\Debug\net5.0\Demo_JsonSerializationBehavior.exe
+D:\Demo\FU\Adv.NET\Slot_05_06_XML_JSON\Demo_JsonSerializationBehavior\bin\Debug\net5.0\Demo_JsonSerializationBehavior.deps.json
+D:\Demo\FU\Adv.NET\Slot_05_06_XML_JSON\Demo_JsonSerializationBehavior\bin\Debug\net5.0\Demo_JsonSerializationBehavior.runtimeconfig.json
+D:\Demo\FU\Adv.NET\Slot_05_06_XML_JSON\Demo_JsonSerializationBehavior\bin\Debug\net5.0\Demo_JsonSerializationBehavior.runtimeconfig.dev.json
+D:\Demo\FU\Adv.NET\Slot_05_06_XML_JSON\Demo_JsonSerializationBehavior\bin\Debug\net5.0\Demo_JsonSerializationBehavior.dll
+D:\Demo\FU\Adv.NET\Slot_05_06_XML_JSON\Demo_JsonSerializationBehavior\bin\Debug\net5.0\ref\Demo_JsonSerializationBehavior.dll
+D:\Demo\FU\Adv.NET\Slot_05_06_XML_JSON\Demo_JsonSerializationBehavior\bin\Debug\net5.0\Demo_JsonSerializationBehavior.pdb
+D:\Demo\FU\Adv.NET\Slot_05_06_XML_JSON\Demo_JsonSerializationBehavior\obj\Debug\net5.0\Demo_JsonSerializationBehavior.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo\FU\Adv.NET\Slot_05_06_XML_JSON\Demo_JsonSerializationBehavior\obj\Debug\net5.0\Demo_JsonSerializationBehavior.AssemblyInfoInputs.cache
+D:\Demo\FU\Adv.NET\Slot_05_06_XML_JSON\Demo_JsonSerializationBehavior\obj\Debug\net5.0\Demo_JsonSerializationBehavior.AssemblyInfo.cs
+D:\Demo\FU\Adv.NET\Slot_05_06_XML_JSON\Demo_JsonSerializationBehavior\obj\Debug\net5.0\Demo_JsonSerializationBehavior.csproj.CoreCompileInputs.cache
+D:\Demo\FU\Adv.NET\Slot_05_06_XML_JSON\Demo_JsonSerializationBehavior\obj\Debug\net5.0\Demo_JsonSerializationBehavior.dll
+D:\Demo\FU\Adv.NET\Slot_05_06_XML_JSON\Demo_JsonSerializationBehavior\obj\Debug\net5.0\ref\Demo_JsonSerializationBehavior.dll
+D:\Demo\FU\Adv.NET\Slot_05_06_XML_JSON\Demo_JsonSerializationBehavior\obj\Debug\net5.0\Demo_JsonSerializationBehavior.pdb
+D:\Demo\FU\Adv.NET\Slot_05_06_XML_JSON\Demo_JsonSerializationBehavior\obj\Debug\net5.0\Demo_JsonSerializationBehavior.genruntimeconfig.cache
+D:\Demo\FU\Adv.NET\Slot_05_06_XML_JSON\Demo_JsonSerializationBehavior\obj\Debug\net5.0\Demo_JsonSerializationBehavior.csprojAssemblyReference.cache

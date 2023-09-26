@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Demo_XmlSerializer_01/1.0.0": {
+        "runtime": {
+          "Demo_XmlSerializer_01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Demo_XmlSerializer_01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

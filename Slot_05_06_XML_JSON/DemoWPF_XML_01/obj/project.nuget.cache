@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "l+JzcDvcDPRIA0xPp9cdBqzSj9GX1Rhf8kW8XsCileIw40msj8Ah5o5/zmMm+uCAQC5nb+ktxxYBtVtk/5K+0g==",
+  "success": true,
+  "projectFilePath": "D:\\thiennhi\\PRN221\\Slot_05_06_XML_JSON\\DemoWPF_XML_01\\DemoWPF_XML_01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\minhn\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\minhn\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\minhn\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\minhn\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

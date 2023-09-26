@@ -1,0 +1,104 @@
+D:\Demo\FU\Adv.NET\Demo01_Window_Page\bin\Debug\net5.0-windows\DemoWindowPage.exe
+D:\Demo\FU\Adv.NET\Demo01_Window_Page\bin\Debug\net5.0-windows\DemoWindowPage.deps.json
+D:\Demo\FU\Adv.NET\Demo01_Window_Page\bin\Debug\net5.0-windows\DemoWindowPage.runtimeconfig.json
+D:\Demo\FU\Adv.NET\Demo01_Window_Page\bin\Debug\net5.0-windows\DemoWindowPage.runtimeconfig.dev.json
+D:\Demo\FU\Adv.NET\Demo01_Window_Page\bin\Debug\net5.0-windows\DemoWindowPage.dll
+D:\Demo\FU\Adv.NET\Demo01_Window_Page\bin\Debug\net5.0-windows\ref\DemoWindowPage.dll
+D:\Demo\FU\Adv.NET\Demo01_Window_Page\bin\Debug\net5.0-windows\DemoWindowPage.pdb
+D:\Demo\FU\Adv.NET\Demo01_Window_Page\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\Demo\FU\Adv.NET\Demo01_Window_Page\obj\Debug\net5.0-windows\Page_01.g.cs
+D:\Demo\FU\Adv.NET\Demo01_Window_Page\obj\Debug\net5.0-windows\Page_02.g.cs
+D:\Demo\FU\Adv.NET\Demo01_Window_Page\obj\Debug\net5.0-windows\App.g.cs
+D:\Demo\FU\Adv.NET\Demo01_Window_Page\obj\Debug\net5.0-windows\DemoWindowPage_MarkupCompile.cache
+D:\Demo\FU\Adv.NET\Demo01_Window_Page\obj\Debug\net5.0-windows\DemoWindowPage_MarkupCompile.lref
+D:\Demo\FU\Adv.NET\Demo01_Window_Page\obj\Debug\net5.0-windows\MainWindow.baml
+D:\Demo\FU\Adv.NET\Demo01_Window_Page\obj\Debug\net5.0-windows\Page_01.baml
+D:\Demo\FU\Adv.NET\Demo01_Window_Page\obj\Debug\net5.0-windows\Page_02.baml
+D:\Demo\FU\Adv.NET\Demo01_Window_Page\obj\Debug\net5.0-windows\DemoWindowPage.g.resources
+D:\Demo\FU\Adv.NET\Demo01_Window_Page\obj\Debug\net5.0-windows\DemoWindowPage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo\FU\Adv.NET\Demo01_Window_Page\obj\Debug\net5.0-windows\DemoWindowPage.AssemblyInfoInputs.cache
+D:\Demo\FU\Adv.NET\Demo01_Window_Page\obj\Debug\net5.0-windows\DemoWindowPage.AssemblyInfo.cs
+D:\Demo\FU\Adv.NET\Demo01_Window_Page\obj\Debug\net5.0-windows\DemoWindowPage.csproj.CoreCompileInputs.cache
+D:\Demo\FU\Adv.NET\Demo01_Window_Page\obj\Debug\net5.0-windows\DemoWindowPage.dll
+D:\Demo\FU\Adv.NET\Demo01_Window_Page\obj\Debug\net5.0-windows\ref\DemoWindowPage.dll
+D:\Demo\FU\Adv.NET\Demo01_Window_Page\obj\Debug\net5.0-windows\DemoWindowPage.pdb
+D:\Demo\FU\Adv.NET\Demo01_Window_Page\obj\Debug\net5.0-windows\DemoWindowPage.genruntimeconfig.cache
+D:\Demo\FU\Adv.NET\Demo01_Window_Page\obj\Debug\net5.0-windows\DemoWindowPage.csprojAssemblyReference.cache
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\Demo01_Window_Page\bin\Debug\net5.0-windows\DemoWindowPage.exe
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\Demo01_Window_Page\bin\Debug\net5.0-windows\DemoWindowPage.deps.json
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\Demo01_Window_Page\bin\Debug\net5.0-windows\DemoWindowPage.runtimeconfig.json
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\Demo01_Window_Page\bin\Debug\net5.0-windows\DemoWindowPage.runtimeconfig.dev.json
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\Demo01_Window_Page\bin\Debug\net5.0-windows\DemoWindowPage.dll
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\Demo01_Window_Page\bin\Debug\net5.0-windows\ref\DemoWindowPage.dll
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\Demo01_Window_Page\bin\Debug\net5.0-windows\DemoWindowPage.pdb
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\Demo01_Window_Page\obj\Debug\net5.0-windows\DemoWindowPage.csproj.AssemblyReference.cache
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\Demo01_Window_Page\obj\Debug\net5.0-windows\MainWindow.g.cs
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\Demo01_Window_Page\obj\Debug\net5.0-windows\Page_01.g.cs
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\Demo01_Window_Page\obj\Debug\net5.0-windows\Page_02.g.cs
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\Demo01_Window_Page\obj\Debug\net5.0-windows\App.g.cs
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\Demo01_Window_Page\obj\Debug\net5.0-windows\DemoWindowPage_MarkupCompile.cache
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\Demo01_Window_Page\obj\Debug\net5.0-windows\DemoWindowPage_MarkupCompile.lref
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\Demo01_Window_Page\obj\Debug\net5.0-windows\MainWindow.baml
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\Demo01_Window_Page\obj\Debug\net5.0-windows\Page_01.baml
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\Demo01_Window_Page\obj\Debug\net5.0-windows\Page_02.baml
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\Demo01_Window_Page\obj\Debug\net5.0-windows\DemoWindowPage.g.resources
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\Demo01_Window_Page\obj\Debug\net5.0-windows\DemoWindowPage.GeneratedMSBuildEditorConfig.editorconfig
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\Demo01_Window_Page\obj\Debug\net5.0-windows\DemoWindowPage.AssemblyInfoInputs.cache
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\Demo01_Window_Page\obj\Debug\net5.0-windows\DemoWindowPage.AssemblyInfo.cs
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\Demo01_Window_Page\obj\Debug\net5.0-windows\DemoWindowPage.csproj.CoreCompileInputs.cache
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\Demo01_Window_Page\obj\Debug\net5.0-windows\DemoWindowPage.dll
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\Demo01_Window_Page\obj\Debug\net5.0-windows\ref\DemoWindowPage.dll
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\Demo01_Window_Page\obj\Debug\net5.0-windows\DemoWindowPage.pdb
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\Demo01_Window_Page\obj\Debug\net5.0-windows\DemoWindowPage.genruntimeconfig.cache
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\Demo01_Window_Page\bin\Debug\net5.0-windows\DemoWindowPage.exe
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\Demo01_Window_Page\bin\Debug\net5.0-windows\DemoWindowPage.deps.json
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\Demo01_Window_Page\bin\Debug\net5.0-windows\DemoWindowPage.runtimeconfig.json
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\Demo01_Window_Page\bin\Debug\net5.0-windows\DemoWindowPage.runtimeconfig.dev.json
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\Demo01_Window_Page\bin\Debug\net5.0-windows\DemoWindowPage.dll
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\Demo01_Window_Page\bin\Debug\net5.0-windows\ref\DemoWindowPage.dll
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\Demo01_Window_Page\bin\Debug\net5.0-windows\DemoWindowPage.pdb
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\Demo01_Window_Page\obj\Debug\net5.0-windows\DemoWindowPage.csproj.AssemblyReference.cache
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\Demo01_Window_Page\obj\Debug\net5.0-windows\MainWindow.g.cs
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\Demo01_Window_Page\obj\Debug\net5.0-windows\Page_01.g.cs
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\Demo01_Window_Page\obj\Debug\net5.0-windows\Page_02.g.cs
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\Demo01_Window_Page\obj\Debug\net5.0-windows\App.g.cs
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\Demo01_Window_Page\obj\Debug\net5.0-windows\DemoWindowPage_MarkupCompile.cache
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\Demo01_Window_Page\obj\Debug\net5.0-windows\DemoWindowPage_MarkupCompile.lref
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\Demo01_Window_Page\obj\Debug\net5.0-windows\MainWindow.baml
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\Demo01_Window_Page\obj\Debug\net5.0-windows\Page_01.baml
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\Demo01_Window_Page\obj\Debug\net5.0-windows\Page_02.baml
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\Demo01_Window_Page\obj\Debug\net5.0-windows\DemoWindowPage.g.resources
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\Demo01_Window_Page\obj\Debug\net5.0-windows\DemoWindowPage.GeneratedMSBuildEditorConfig.editorconfig
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\Demo01_Window_Page\obj\Debug\net5.0-windows\DemoWindowPage.AssemblyInfoInputs.cache
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\Demo01_Window_Page\obj\Debug\net5.0-windows\DemoWindowPage.AssemblyInfo.cs
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\Demo01_Window_Page\obj\Debug\net5.0-windows\DemoWindowPage.csproj.CoreCompileInputs.cache
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\Demo01_Window_Page\obj\Debug\net5.0-windows\DemoWindowPage.dll
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\Demo01_Window_Page\obj\Debug\net5.0-windows\ref\DemoWindowPage.dll
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\Demo01_Window_Page\obj\Debug\net5.0-windows\DemoWindowPage.pdb
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\Demo01_Window_Page\obj\Debug\net5.0-windows\DemoWindowPage.genruntimeconfig.cache
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\Demo01_Window_Page\bin\Debug\net5.0-windows\DemoWindowPage.exe
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\Demo01_Window_Page\bin\Debug\net5.0-windows\DemoWindowPage.deps.json
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\Demo01_Window_Page\bin\Debug\net5.0-windows\DemoWindowPage.runtimeconfig.json
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\Demo01_Window_Page\bin\Debug\net5.0-windows\DemoWindowPage.runtimeconfig.dev.json
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\Demo01_Window_Page\bin\Debug\net5.0-windows\DemoWindowPage.dll
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\Demo01_Window_Page\bin\Debug\net5.0-windows\DemoWindowPage.pdb
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\Demo01_Window_Page\obj\Debug\net5.0-windows\DemoWindowPage.csproj.AssemblyReference.cache
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\Demo01_Window_Page\obj\Debug\net5.0-windows\MainWindow.g.cs
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\Demo01_Window_Page\obj\Debug\net5.0-windows\Page_01.g.cs
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\Demo01_Window_Page\obj\Debug\net5.0-windows\Page_02.g.cs
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\Demo01_Window_Page\obj\Debug\net5.0-windows\App.g.cs
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\Demo01_Window_Page\obj\Debug\net5.0-windows\DemoWindowPage_MarkupCompile.cache
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\Demo01_Window_Page\obj\Debug\net5.0-windows\DemoWindowPage_MarkupCompile.lref
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\Demo01_Window_Page\obj\Debug\net5.0-windows\MainWindow.baml
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\Demo01_Window_Page\obj\Debug\net5.0-windows\Page_01.baml
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\Demo01_Window_Page\obj\Debug\net5.0-windows\Page_02.baml
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\Demo01_Window_Page\obj\Debug\net5.0-windows\DemoWindowPage.g.resources
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\Demo01_Window_Page\obj\Debug\net5.0-windows\DemoWindowPage.GeneratedMSBuildEditorConfig.editorconfig
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\Demo01_Window_Page\obj\Debug\net5.0-windows\DemoWindowPage.AssemblyInfoInputs.cache
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\Demo01_Window_Page\obj\Debug\net5.0-windows\DemoWindowPage.AssemblyInfo.cs
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\Demo01_Window_Page\obj\Debug\net5.0-windows\DemoWindowPage.csproj.CoreCompileInputs.cache
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\Demo01_Window_Page\obj\Debug\net5.0-windows\DemoWindowPage.dll
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\Demo01_Window_Page\obj\Debug\net5.0-windows\refint\DemoWindowPage.dll
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\Demo01_Window_Page\obj\Debug\net5.0-windows\DemoWindowPage.pdb
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\Demo01_Window_Page\obj\Debug\net5.0-windows\DemoWindowPage.genruntimeconfig.cache
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\Demo01_Window_Page\obj\Debug\net5.0-windows\ref\DemoWindowPage.dll

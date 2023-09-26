@@ -1,0 +1,17 @@
+D:\thiennhi\PRN221\Exercise1NET6_SE150257\Repositories\bin\Debug\net6.0\Repositories.deps.json
+D:\thiennhi\PRN221\Exercise1NET6_SE150257\Repositories\bin\Debug\net6.0\Repositories.dll
+D:\thiennhi\PRN221\Exercise1NET6_SE150257\Repositories\bin\Debug\net6.0\Repositories.pdb
+D:\thiennhi\PRN221\Exercise1NET6_SE150257\Repositories\bin\Debug\net6.0\DataAccessLayer.dll
+D:\thiennhi\PRN221\Exercise1NET6_SE150257\Repositories\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\thiennhi\PRN221\Exercise1NET6_SE150257\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+D:\thiennhi\PRN221\Exercise1NET6_SE150257\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\thiennhi\PRN221\Exercise1NET6_SE150257\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+D:\thiennhi\PRN221\Exercise1NET6_SE150257\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+D:\thiennhi\PRN221\Exercise1NET6_SE150257\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+D:\thiennhi\PRN221\Exercise1NET6_SE150257\Repositories\obj\Debug\net6.0\Repositories.csproj.CopyComplete
+D:\thiennhi\PRN221\Exercise1NET6_SE150257\Repositories\obj\Debug\net6.0\Repositories.dll
+D:\thiennhi\PRN221\Exercise1NET6_SE150257\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+D:\thiennhi\PRN221\Exercise1NET6_SE150257\Repositories\obj\Debug\net6.0\Repositories.pdb
+D:\thiennhi\PRN221\Exercise1NET6_SE150257\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+D:\thiennhi\PRN221\Exercise1NET6_SE150257\Repositories\bin\Debug\net6.0\BusinessObjects.dll
+D:\thiennhi\PRN221\Exercise1NET6_SE150257\Repositories\bin\Debug\net6.0\BusinessObjects.pdb

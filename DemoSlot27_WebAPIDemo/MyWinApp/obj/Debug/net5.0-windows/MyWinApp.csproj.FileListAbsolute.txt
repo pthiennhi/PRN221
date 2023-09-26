@@ -1,0 +1,88 @@
+C:\Users\HP\source\repos\DemoSlot27_MyService\MyWinApp\bin\Debug\net5.0-windows\MyWinApp.exe
+C:\Users\HP\source\repos\DemoSlot27_MyService\MyWinApp\bin\Debug\net5.0-windows\MyWinApp.deps.json
+C:\Users\HP\source\repos\DemoSlot27_MyService\MyWinApp\bin\Debug\net5.0-windows\MyWinApp.runtimeconfig.json
+C:\Users\HP\source\repos\DemoSlot27_MyService\MyWinApp\bin\Debug\net5.0-windows\MyWinApp.runtimeconfig.dev.json
+C:\Users\HP\source\repos\DemoSlot27_MyService\MyWinApp\bin\Debug\net5.0-windows\MyWinApp.dll
+C:\Users\HP\source\repos\DemoSlot27_MyService\MyWinApp\bin\Debug\net5.0-windows\ref\MyWinApp.dll
+C:\Users\HP\source\repos\DemoSlot27_MyService\MyWinApp\bin\Debug\net5.0-windows\MyWinApp.pdb
+C:\Users\HP\source\repos\DemoSlot27_MyService\MyWinApp\bin\Debug\net5.0-windows\System.Net.Http.Formatting.dll
+C:\Users\HP\source\repos\DemoSlot27_MyService\MyWinApp\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\HP\source\repos\DemoSlot27_MyService\MyWinApp\bin\Debug\net5.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\HP\source\repos\DemoSlot27_MyService\MyWinApp\obj\Debug\net5.0-windows\MyWinApp.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\DemoSlot27_MyService\MyWinApp\obj\Debug\net5.0-windows\MyWinApp.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\DemoSlot27_MyService\MyWinApp\obj\Debug\net5.0-windows\MyWinApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\DemoSlot27_MyService\MyWinApp\obj\Debug\net5.0-windows\MyWinApp.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\DemoSlot27_MyService\MyWinApp\obj\Debug\net5.0-windows\MyWinApp.AssemblyInfo.cs
+C:\Users\HP\source\repos\DemoSlot27_MyService\MyWinApp\obj\Debug\net5.0-windows\MyWinApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\DemoSlot27_MyService\MyWinApp\obj\Debug\net5.0-windows\MyWinApp.csproj.CopyComplete
+C:\Users\HP\source\repos\DemoSlot27_MyService\MyWinApp\obj\Debug\net5.0-windows\MyWinApp.dll
+C:\Users\HP\source\repos\DemoSlot27_MyService\MyWinApp\obj\Debug\net5.0-windows\ref\MyWinApp.dll
+C:\Users\HP\source\repos\DemoSlot27_MyService\MyWinApp\obj\Debug\net5.0-windows\MyWinApp.pdb
+C:\Users\HP\source\repos\DemoSlot27_MyService\MyWinApp\obj\Debug\net5.0-windows\MyWinApp.genruntimeconfig.cache
+C:\Users\HP\source\repos\DemoSlot27_MyService\MyWinApp\obj\Debug\net5.0-windows\MyWinApp.frmProduct.resources
+D:\_TempCodeDemo\DemoSlot27_WebAPIDemo\MyWinApp\bin\Debug\net5.0-windows\MyWinApp.exe
+D:\_TempCodeDemo\DemoSlot27_WebAPIDemo\MyWinApp\bin\Debug\net5.0-windows\MyWinApp.deps.json
+D:\_TempCodeDemo\DemoSlot27_WebAPIDemo\MyWinApp\bin\Debug\net5.0-windows\MyWinApp.runtimeconfig.json
+D:\_TempCodeDemo\DemoSlot27_WebAPIDemo\MyWinApp\bin\Debug\net5.0-windows\MyWinApp.runtimeconfig.dev.json
+D:\_TempCodeDemo\DemoSlot27_WebAPIDemo\MyWinApp\bin\Debug\net5.0-windows\MyWinApp.dll
+D:\_TempCodeDemo\DemoSlot27_WebAPIDemo\MyWinApp\bin\Debug\net5.0-windows\ref\MyWinApp.dll
+D:\_TempCodeDemo\DemoSlot27_WebAPIDemo\MyWinApp\bin\Debug\net5.0-windows\MyWinApp.pdb
+D:\_TempCodeDemo\DemoSlot27_WebAPIDemo\MyWinApp\bin\Debug\net5.0-windows\System.Net.Http.Formatting.dll
+D:\_TempCodeDemo\DemoSlot27_WebAPIDemo\MyWinApp\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\_TempCodeDemo\DemoSlot27_WebAPIDemo\MyWinApp\bin\Debug\net5.0-windows\Newtonsoft.Json.Bson.dll
+D:\_TempCodeDemo\DemoSlot27_WebAPIDemo\MyWinApp\obj\Debug\net5.0-windows\MyWinApp.csproj.AssemblyReference.cache
+D:\_TempCodeDemo\DemoSlot27_WebAPIDemo\MyWinApp\obj\Debug\net5.0-windows\MyWinApp.frmProduct.resources
+D:\_TempCodeDemo\DemoSlot27_WebAPIDemo\MyWinApp\obj\Debug\net5.0-windows\MyWinApp.csproj.GenerateResource.cache
+D:\_TempCodeDemo\DemoSlot27_WebAPIDemo\MyWinApp\obj\Debug\net5.0-windows\MyWinApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\_TempCodeDemo\DemoSlot27_WebAPIDemo\MyWinApp\obj\Debug\net5.0-windows\MyWinApp.AssemblyInfoInputs.cache
+D:\_TempCodeDemo\DemoSlot27_WebAPIDemo\MyWinApp\obj\Debug\net5.0-windows\MyWinApp.AssemblyInfo.cs
+D:\_TempCodeDemo\DemoSlot27_WebAPIDemo\MyWinApp\obj\Debug\net5.0-windows\MyWinApp.csproj.CoreCompileInputs.cache
+D:\_TempCodeDemo\DemoSlot27_WebAPIDemo\MyWinApp\obj\Debug\net5.0-windows\MyWinApp.csproj.CopyComplete
+D:\_TempCodeDemo\DemoSlot27_WebAPIDemo\MyWinApp\obj\Debug\net5.0-windows\MyWinApp.dll
+D:\_TempCodeDemo\DemoSlot27_WebAPIDemo\MyWinApp\obj\Debug\net5.0-windows\ref\MyWinApp.dll
+D:\_TempCodeDemo\DemoSlot27_WebAPIDemo\MyWinApp\obj\Debug\net5.0-windows\MyWinApp.pdb
+D:\_TempCodeDemo\DemoSlot27_WebAPIDemo\MyWinApp\obj\Debug\net5.0-windows\MyWinApp.genruntimeconfig.cache
+E:\THANH VAN\2023 Spring\PRN231\Others\DemoSlot27_WebAPIDemo (2)\DemoSlot27_WebAPIDemo\MyWinApp\bin\Debug\net5.0-windows\MyWinApp.exe
+E:\THANH VAN\2023 Spring\PRN231\Others\DemoSlot27_WebAPIDemo (2)\DemoSlot27_WebAPIDemo\MyWinApp\bin\Debug\net5.0-windows\MyWinApp.deps.json
+E:\THANH VAN\2023 Spring\PRN231\Others\DemoSlot27_WebAPIDemo (2)\DemoSlot27_WebAPIDemo\MyWinApp\bin\Debug\net5.0-windows\MyWinApp.runtimeconfig.json
+E:\THANH VAN\2023 Spring\PRN231\Others\DemoSlot27_WebAPIDemo (2)\DemoSlot27_WebAPIDemo\MyWinApp\bin\Debug\net5.0-windows\MyWinApp.runtimeconfig.dev.json
+E:\THANH VAN\2023 Spring\PRN231\Others\DemoSlot27_WebAPIDemo (2)\DemoSlot27_WebAPIDemo\MyWinApp\bin\Debug\net5.0-windows\MyWinApp.dll
+E:\THANH VAN\2023 Spring\PRN231\Others\DemoSlot27_WebAPIDemo (2)\DemoSlot27_WebAPIDemo\MyWinApp\bin\Debug\net5.0-windows\MyWinApp.pdb
+E:\THANH VAN\2023 Spring\PRN231\Others\DemoSlot27_WebAPIDemo (2)\DemoSlot27_WebAPIDemo\MyWinApp\bin\Debug\net5.0-windows\System.Net.Http.Formatting.dll
+E:\THANH VAN\2023 Spring\PRN231\Others\DemoSlot27_WebAPIDemo (2)\DemoSlot27_WebAPIDemo\MyWinApp\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+E:\THANH VAN\2023 Spring\PRN231\Others\DemoSlot27_WebAPIDemo (2)\DemoSlot27_WebAPIDemo\MyWinApp\bin\Debug\net5.0-windows\Newtonsoft.Json.Bson.dll
+E:\THANH VAN\2023 Spring\PRN231\Others\DemoSlot27_WebAPIDemo (2)\DemoSlot27_WebAPIDemo\MyWinApp\obj\Debug\net5.0-windows\MyWinApp.csproj.AssemblyReference.cache
+E:\THANH VAN\2023 Spring\PRN231\Others\DemoSlot27_WebAPIDemo (2)\DemoSlot27_WebAPIDemo\MyWinApp\obj\Debug\net5.0-windows\MyWinApp.frmProduct.resources
+E:\THANH VAN\2023 Spring\PRN231\Others\DemoSlot27_WebAPIDemo (2)\DemoSlot27_WebAPIDemo\MyWinApp\obj\Debug\net5.0-windows\MyWinApp.csproj.GenerateResource.cache
+E:\THANH VAN\2023 Spring\PRN231\Others\DemoSlot27_WebAPIDemo (2)\DemoSlot27_WebAPIDemo\MyWinApp\obj\Debug\net5.0-windows\MyWinApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\THANH VAN\2023 Spring\PRN231\Others\DemoSlot27_WebAPIDemo (2)\DemoSlot27_WebAPIDemo\MyWinApp\obj\Debug\net5.0-windows\MyWinApp.AssemblyInfoInputs.cache
+E:\THANH VAN\2023 Spring\PRN231\Others\DemoSlot27_WebAPIDemo (2)\DemoSlot27_WebAPIDemo\MyWinApp\obj\Debug\net5.0-windows\MyWinApp.AssemblyInfo.cs
+E:\THANH VAN\2023 Spring\PRN231\Others\DemoSlot27_WebAPIDemo (2)\DemoSlot27_WebAPIDemo\MyWinApp\obj\Debug\net5.0-windows\MyWinApp.csproj.CoreCompileInputs.cache
+E:\THANH VAN\2023 Spring\PRN231\Others\DemoSlot27_WebAPIDemo (2)\DemoSlot27_WebAPIDemo\MyWinApp\obj\Debug\net5.0-windows\MyWinApp.csproj.CopyComplete
+E:\THANH VAN\2023 Spring\PRN231\Others\DemoSlot27_WebAPIDemo (2)\DemoSlot27_WebAPIDemo\MyWinApp\obj\Debug\net5.0-windows\MyWinApp.dll
+E:\THANH VAN\2023 Spring\PRN231\Others\DemoSlot27_WebAPIDemo (2)\DemoSlot27_WebAPIDemo\MyWinApp\obj\Debug\net5.0-windows\refint\MyWinApp.dll
+E:\THANH VAN\2023 Spring\PRN231\Others\DemoSlot27_WebAPIDemo (2)\DemoSlot27_WebAPIDemo\MyWinApp\obj\Debug\net5.0-windows\MyWinApp.pdb
+E:\THANH VAN\2023 Spring\PRN231\Others\DemoSlot27_WebAPIDemo (2)\DemoSlot27_WebAPIDemo\MyWinApp\obj\Debug\net5.0-windows\MyWinApp.genruntimeconfig.cache
+E:\THANH VAN\2023 Spring\PRN231\Others\DemoSlot27_WebAPIDemo (2)\DemoSlot27_WebAPIDemo\MyWinApp\obj\Debug\net5.0-windows\ref\MyWinApp.dll
+E:\THANH VAN\2023 Summer\PRN231\Others\DemoSlot27_WebAPIDemo (2)\DemoSlot27_WebAPIDemo\MyWinApp\bin\Debug\net5.0-windows\MyWinApp.exe
+E:\THANH VAN\2023 Summer\PRN231\Others\DemoSlot27_WebAPIDemo (2)\DemoSlot27_WebAPIDemo\MyWinApp\bin\Debug\net5.0-windows\MyWinApp.deps.json
+E:\THANH VAN\2023 Summer\PRN231\Others\DemoSlot27_WebAPIDemo (2)\DemoSlot27_WebAPIDemo\MyWinApp\bin\Debug\net5.0-windows\MyWinApp.runtimeconfig.json
+E:\THANH VAN\2023 Summer\PRN231\Others\DemoSlot27_WebAPIDemo (2)\DemoSlot27_WebAPIDemo\MyWinApp\bin\Debug\net5.0-windows\MyWinApp.runtimeconfig.dev.json
+E:\THANH VAN\2023 Summer\PRN231\Others\DemoSlot27_WebAPIDemo (2)\DemoSlot27_WebAPIDemo\MyWinApp\bin\Debug\net5.0-windows\MyWinApp.dll
+E:\THANH VAN\2023 Summer\PRN231\Others\DemoSlot27_WebAPIDemo (2)\DemoSlot27_WebAPIDemo\MyWinApp\bin\Debug\net5.0-windows\MyWinApp.pdb
+E:\THANH VAN\2023 Summer\PRN231\Others\DemoSlot27_WebAPIDemo (2)\DemoSlot27_WebAPIDemo\MyWinApp\bin\Debug\net5.0-windows\System.Net.Http.Formatting.dll
+E:\THANH VAN\2023 Summer\PRN231\Others\DemoSlot27_WebAPIDemo (2)\DemoSlot27_WebAPIDemo\MyWinApp\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+E:\THANH VAN\2023 Summer\PRN231\Others\DemoSlot27_WebAPIDemo (2)\DemoSlot27_WebAPIDemo\MyWinApp\bin\Debug\net5.0-windows\Newtonsoft.Json.Bson.dll
+E:\THANH VAN\2023 Summer\PRN231\Others\DemoSlot27_WebAPIDemo (2)\DemoSlot27_WebAPIDemo\MyWinApp\obj\Debug\net5.0-windows\MyWinApp.csproj.AssemblyReference.cache
+E:\THANH VAN\2023 Summer\PRN231\Others\DemoSlot27_WebAPIDemo (2)\DemoSlot27_WebAPIDemo\MyWinApp\obj\Debug\net5.0-windows\MyWinApp.frmProduct.resources
+E:\THANH VAN\2023 Summer\PRN231\Others\DemoSlot27_WebAPIDemo (2)\DemoSlot27_WebAPIDemo\MyWinApp\obj\Debug\net5.0-windows\MyWinApp.csproj.GenerateResource.cache
+E:\THANH VAN\2023 Summer\PRN231\Others\DemoSlot27_WebAPIDemo (2)\DemoSlot27_WebAPIDemo\MyWinApp\obj\Debug\net5.0-windows\MyWinApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\THANH VAN\2023 Summer\PRN231\Others\DemoSlot27_WebAPIDemo (2)\DemoSlot27_WebAPIDemo\MyWinApp\obj\Debug\net5.0-windows\MyWinApp.AssemblyInfoInputs.cache
+E:\THANH VAN\2023 Summer\PRN231\Others\DemoSlot27_WebAPIDemo (2)\DemoSlot27_WebAPIDemo\MyWinApp\obj\Debug\net5.0-windows\MyWinApp.AssemblyInfo.cs
+E:\THANH VAN\2023 Summer\PRN231\Others\DemoSlot27_WebAPIDemo (2)\DemoSlot27_WebAPIDemo\MyWinApp\obj\Debug\net5.0-windows\MyWinApp.csproj.CoreCompileInputs.cache
+E:\THANH VAN\2023 Summer\PRN231\Others\DemoSlot27_WebAPIDemo (2)\DemoSlot27_WebAPIDemo\MyWinApp\obj\Debug\net5.0-windows\MyWinApp.csproj.CopyComplete
+E:\THANH VAN\2023 Summer\PRN231\Others\DemoSlot27_WebAPIDemo (2)\DemoSlot27_WebAPIDemo\MyWinApp\obj\Debug\net5.0-windows\MyWinApp.dll
+E:\THANH VAN\2023 Summer\PRN231\Others\DemoSlot27_WebAPIDemo (2)\DemoSlot27_WebAPIDemo\MyWinApp\obj\Debug\net5.0-windows\refint\MyWinApp.dll
+E:\THANH VAN\2023 Summer\PRN231\Others\DemoSlot27_WebAPIDemo (2)\DemoSlot27_WebAPIDemo\MyWinApp\obj\Debug\net5.0-windows\MyWinApp.pdb
+E:\THANH VAN\2023 Summer\PRN231\Others\DemoSlot27_WebAPIDemo (2)\DemoSlot27_WebAPIDemo\MyWinApp\obj\Debug\net5.0-windows\MyWinApp.genruntimeconfig.cache
+E:\THANH VAN\2023 Summer\PRN231\Others\DemoSlot27_WebAPIDemo (2)\DemoSlot27_WebAPIDemo\MyWinApp\obj\Debug\net5.0-windows\ref\MyWinApp.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Demo_JsonSerializationBehavior/1.0.0": {
+        "runtime": {
+          "Demo_JsonSerializationBehavior.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Demo_JsonSerializationBehavior/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

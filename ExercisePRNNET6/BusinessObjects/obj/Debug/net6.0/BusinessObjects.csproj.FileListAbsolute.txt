@@ -1,0 +1,14 @@
+D:\thiennhi\PRN221\ExercisePRNNET6\BusinessObjects\bin\Debug\net6.0\BusinessObjects.deps.json
+D:\thiennhi\PRN221\ExercisePRNNET6\BusinessObjects\bin\Debug\net6.0\BusinessObjects.runtimeconfig.json
+D:\thiennhi\PRN221\ExercisePRNNET6\BusinessObjects\bin\Debug\net6.0\BusinessObjects.dll
+D:\thiennhi\PRN221\ExercisePRNNET6\BusinessObjects\bin\Debug\net6.0\BusinessObjects.pdb
+D:\thiennhi\PRN221\ExercisePRNNET6\BusinessObjects\obj\Debug\net6.0\BusinessObjects.csproj.AssemblyReference.cache
+D:\thiennhi\PRN221\ExercisePRNNET6\BusinessObjects\obj\Debug\net6.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\thiennhi\PRN221\ExercisePRNNET6\BusinessObjects\obj\Debug\net6.0\BusinessObjects.AssemblyInfoInputs.cache
+D:\thiennhi\PRN221\ExercisePRNNET6\BusinessObjects\obj\Debug\net6.0\BusinessObjects.AssemblyInfo.cs
+D:\thiennhi\PRN221\ExercisePRNNET6\BusinessObjects\obj\Debug\net6.0\BusinessObjects.csproj.CoreCompileInputs.cache
+D:\thiennhi\PRN221\ExercisePRNNET6\BusinessObjects\obj\Debug\net6.0\BusinessObjects.dll
+D:\thiennhi\PRN221\ExercisePRNNET6\BusinessObjects\obj\Debug\net6.0\refint\BusinessObjects.dll
+D:\thiennhi\PRN221\ExercisePRNNET6\BusinessObjects\obj\Debug\net6.0\BusinessObjects.pdb
+D:\thiennhi\PRN221\ExercisePRNNET6\BusinessObjects\obj\Debug\net6.0\BusinessObjects.genruntimeconfig.cache
+D:\thiennhi\PRN221\ExercisePRNNET6\BusinessObjects\obj\Debug\net6.0\ref\BusinessObjects.dll

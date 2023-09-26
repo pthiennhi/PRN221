@@ -1,0 +1,15 @@
+D:\thiennhi\PRN221\Assignment1NET7_PhamThienNhi_SE150257\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.deps.json
+D:\thiennhi\PRN221\Assignment1NET7_PhamThienNhi_SE150257\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.dll
+D:\thiennhi\PRN221\Assignment1NET7_PhamThienNhi_SE150257\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+D:\thiennhi\PRN221\Assignment1NET7_PhamThienNhi_SE150257\DataAccessLayer\bin\Debug\net7.0\BusinessObjects.dll
+D:\thiennhi\PRN221\Assignment1NET7_PhamThienNhi_SE150257\DataAccessLayer\bin\Debug\net7.0\BusinessObjects.pdb
+D:\thiennhi\PRN221\Assignment1NET7_PhamThienNhi_SE150257\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\thiennhi\PRN221\Assignment1NET7_PhamThienNhi_SE150257\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\thiennhi\PRN221\Assignment1NET7_PhamThienNhi_SE150257\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\thiennhi\PRN221\Assignment1NET7_PhamThienNhi_SE150257\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfo.cs
+D:\thiennhi\PRN221\Assignment1NET7_PhamThienNhi_SE150257\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\thiennhi\PRN221\Assignment1NET7_PhamThienNhi_SE150257\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CopyComplete
+D:\thiennhi\PRN221\Assignment1NET7_PhamThienNhi_SE150257\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.dll
+D:\thiennhi\PRN221\Assignment1NET7_PhamThienNhi_SE150257\DataAccessLayer\obj\Debug\net7.0\refint\DataAccessLayer.dll
+D:\thiennhi\PRN221\Assignment1NET7_PhamThienNhi_SE150257\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.pdb
+D:\thiennhi\PRN221\Assignment1NET7_PhamThienNhi_SE150257\DataAccessLayer\obj\Debug\net7.0\ref\DataAccessLayer.dll

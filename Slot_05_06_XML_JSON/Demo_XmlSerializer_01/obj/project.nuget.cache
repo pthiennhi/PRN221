@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "N0I1BsJe23PCtMTtIB/cHxOpaqI5DE7JRfCj6JgQ6qmhU2Pck0651zS7Y9Pp4iQ+dFOb9jLh3sBH3zqR/wwomw==",
+  "success": true,
+  "projectFilePath": "D:\\thiennhi\\PRN221\\Slot_05_06_XML_JSON\\Demo_XmlSerializer_01\\Demo_XmlSerializer_01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\minhn\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\minhn\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\minhn\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\minhn\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
