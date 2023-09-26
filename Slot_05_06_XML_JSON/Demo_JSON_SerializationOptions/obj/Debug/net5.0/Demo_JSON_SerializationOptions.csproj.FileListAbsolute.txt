@@ -1,0 +1,16 @@
+D:\Demo\FU\Adv.NET\Slot_05_06_XML_JSON\Demo_JSON_SerializationOptions\bin\Debug\net5.0\Demo_JSON_SerializationOptions.exe
+D:\Demo\FU\Adv.NET\Slot_05_06_XML_JSON\Demo_JSON_SerializationOptions\bin\Debug\net5.0\Demo_JSON_SerializationOptions.deps.json
+D:\Demo\FU\Adv.NET\Slot_05_06_XML_JSON\Demo_JSON_SerializationOptions\bin\Debug\net5.0\Demo_JSON_SerializationOptions.runtimeconfig.json
+D:\Demo\FU\Adv.NET\Slot_05_06_XML_JSON\Demo_JSON_SerializationOptions\bin\Debug\net5.0\Demo_JSON_SerializationOptions.runtimeconfig.dev.json
+D:\Demo\FU\Adv.NET\Slot_05_06_XML_JSON\Demo_JSON_SerializationOptions\bin\Debug\net5.0\Demo_JSON_SerializationOptions.dll
+D:\Demo\FU\Adv.NET\Slot_05_06_XML_JSON\Demo_JSON_SerializationOptions\bin\Debug\net5.0\ref\Demo_JSON_SerializationOptions.dll
+D:\Demo\FU\Adv.NET\Slot_05_06_XML_JSON\Demo_JSON_SerializationOptions\bin\Debug\net5.0\Demo_JSON_SerializationOptions.pdb
+D:\Demo\FU\Adv.NET\Slot_05_06_XML_JSON\Demo_JSON_SerializationOptions\obj\Debug\net5.0\Demo_JSON_SerializationOptions.csprojAssemblyReference.cache
+D:\Demo\FU\Adv.NET\Slot_05_06_XML_JSON\Demo_JSON_SerializationOptions\obj\Debug\net5.0\Demo_JSON_SerializationOptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo\FU\Adv.NET\Slot_05_06_XML_JSON\Demo_JSON_SerializationOptions\obj\Debug\net5.0\Demo_JSON_SerializationOptions.AssemblyInfoInputs.cache
+D:\Demo\FU\Adv.NET\Slot_05_06_XML_JSON\Demo_JSON_SerializationOptions\obj\Debug\net5.0\Demo_JSON_SerializationOptions.AssemblyInfo.cs
+D:\Demo\FU\Adv.NET\Slot_05_06_XML_JSON\Demo_JSON_SerializationOptions\obj\Debug\net5.0\Demo_JSON_SerializationOptions.csproj.CoreCompileInputs.cache
+D:\Demo\FU\Adv.NET\Slot_05_06_XML_JSON\Demo_JSON_SerializationOptions\obj\Debug\net5.0\Demo_JSON_SerializationOptions.dll
+D:\Demo\FU\Adv.NET\Slot_05_06_XML_JSON\Demo_JSON_SerializationOptions\obj\Debug\net5.0\ref\Demo_JSON_SerializationOptions.dll
+D:\Demo\FU\Adv.NET\Slot_05_06_XML_JSON\Demo_JSON_SerializationOptions\obj\Debug\net5.0\Demo_JSON_SerializationOptions.pdb
+D:\Demo\FU\Adv.NET\Slot_05_06_XML_JSON\Demo_JSON_SerializationOptions\obj\Debug\net5.0\Demo_JSON_SerializationOptions.genruntimeconfig.cache

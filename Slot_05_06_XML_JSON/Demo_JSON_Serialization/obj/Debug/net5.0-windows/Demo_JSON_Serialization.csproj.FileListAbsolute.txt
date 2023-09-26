@@ -1,0 +1,110 @@
+D:\Demo\FU\Adv.NET\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\Demo_JSON_Serialization.csprojAssemblyReference.cache
+D:\Demo\FU\Adv.NET\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\Demo\FU\Adv.NET\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\App.g.cs
+D:\Demo\FU\Adv.NET\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\Demo_JSON_Serialization_MarkupCompile.cache
+D:\Demo\FU\Adv.NET\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\Demo_JSON_Serialization_MarkupCompile.lref
+D:\Demo\FU\Adv.NET\Slot_05_06_XML_JSON\Demo_JSON_Serialization\bin\Debug\net5.0-windows\Demo_JSON_Serialization.exe
+D:\Demo\FU\Adv.NET\Slot_05_06_XML_JSON\Demo_JSON_Serialization\bin\Debug\net5.0-windows\Demo_JSON_Serialization.deps.json
+D:\Demo\FU\Adv.NET\Slot_05_06_XML_JSON\Demo_JSON_Serialization\bin\Debug\net5.0-windows\Demo_JSON_Serialization.runtimeconfig.json
+D:\Demo\FU\Adv.NET\Slot_05_06_XML_JSON\Demo_JSON_Serialization\bin\Debug\net5.0-windows\Demo_JSON_Serialization.runtimeconfig.dev.json
+D:\Demo\FU\Adv.NET\Slot_05_06_XML_JSON\Demo_JSON_Serialization\bin\Debug\net5.0-windows\Demo_JSON_Serialization.dll
+D:\Demo\FU\Adv.NET\Slot_05_06_XML_JSON\Demo_JSON_Serialization\bin\Debug\net5.0-windows\ref\Demo_JSON_Serialization.dll
+D:\Demo\FU\Adv.NET\Slot_05_06_XML_JSON\Demo_JSON_Serialization\bin\Debug\net5.0-windows\Demo_JSON_Serialization.pdb
+D:\Demo\FU\Adv.NET\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\MainWindow.baml
+D:\Demo\FU\Adv.NET\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\Demo_JSON_Serialization.g.resources
+D:\Demo\FU\Adv.NET\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\Demo_JSON_Serialization.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo\FU\Adv.NET\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\Demo_JSON_Serialization.AssemblyInfoInputs.cache
+D:\Demo\FU\Adv.NET\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\Demo_JSON_Serialization.AssemblyInfo.cs
+D:\Demo\FU\Adv.NET\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\Demo_JSON_Serialization.csproj.CoreCompileInputs.cache
+D:\Demo\FU\Adv.NET\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\Demo_JSON_Serialization.dll
+D:\Demo\FU\Adv.NET\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\ref\Demo_JSON_Serialization.dll
+D:\Demo\FU\Adv.NET\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\Demo_JSON_Serialization.pdb
+D:\Demo\FU\Adv.NET\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\Demo_JSON_Serialization.genruntimeconfig.cache
+E:\THANH VAN\2022 Spring FU\PRN221_SE1501\Stuff\Slot_05_06_XML_JSON\Demo_JSON_Serialization\bin\Debug\net5.0-windows\Demo_JSON_Serialization.exe
+E:\THANH VAN\2022 Spring FU\PRN221_SE1501\Stuff\Slot_05_06_XML_JSON\Demo_JSON_Serialization\bin\Debug\net5.0-windows\Demo_JSON_Serialization.deps.json
+E:\THANH VAN\2022 Spring FU\PRN221_SE1501\Stuff\Slot_05_06_XML_JSON\Demo_JSON_Serialization\bin\Debug\net5.0-windows\Demo_JSON_Serialization.runtimeconfig.json
+E:\THANH VAN\2022 Spring FU\PRN221_SE1501\Stuff\Slot_05_06_XML_JSON\Demo_JSON_Serialization\bin\Debug\net5.0-windows\Demo_JSON_Serialization.runtimeconfig.dev.json
+E:\THANH VAN\2022 Spring FU\PRN221_SE1501\Stuff\Slot_05_06_XML_JSON\Demo_JSON_Serialization\bin\Debug\net5.0-windows\Demo_JSON_Serialization.dll
+E:\THANH VAN\2022 Spring FU\PRN221_SE1501\Stuff\Slot_05_06_XML_JSON\Demo_JSON_Serialization\bin\Debug\net5.0-windows\ref\Demo_JSON_Serialization.dll
+E:\THANH VAN\2022 Spring FU\PRN221_SE1501\Stuff\Slot_05_06_XML_JSON\Demo_JSON_Serialization\bin\Debug\net5.0-windows\Demo_JSON_Serialization.pdb
+E:\THANH VAN\2022 Spring FU\PRN221_SE1501\Stuff\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\Demo_JSON_Serialization.csproj.AssemblyReference.cache
+E:\THANH VAN\2022 Spring FU\PRN221_SE1501\Stuff\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\MainWindow.g.cs
+E:\THANH VAN\2022 Spring FU\PRN221_SE1501\Stuff\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\App.g.cs
+E:\THANH VAN\2022 Spring FU\PRN221_SE1501\Stuff\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\Demo_JSON_Serialization_MarkupCompile.cache
+E:\THANH VAN\2022 Spring FU\PRN221_SE1501\Stuff\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\Demo_JSON_Serialization_MarkupCompile.lref
+E:\THANH VAN\2022 Spring FU\PRN221_SE1501\Stuff\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\MainWindow.baml
+E:\THANH VAN\2022 Spring FU\PRN221_SE1501\Stuff\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\Demo_JSON_Serialization.g.resources
+E:\THANH VAN\2022 Spring FU\PRN221_SE1501\Stuff\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\Demo_JSON_Serialization.GeneratedMSBuildEditorConfig.editorconfig
+E:\THANH VAN\2022 Spring FU\PRN221_SE1501\Stuff\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\Demo_JSON_Serialization.AssemblyInfoInputs.cache
+E:\THANH VAN\2022 Spring FU\PRN221_SE1501\Stuff\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\Demo_JSON_Serialization.AssemblyInfo.cs
+E:\THANH VAN\2022 Spring FU\PRN221_SE1501\Stuff\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\Demo_JSON_Serialization.csproj.CoreCompileInputs.cache
+E:\THANH VAN\2022 Spring FU\PRN221_SE1501\Stuff\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\Demo_JSON_Serialization.dll
+E:\THANH VAN\2022 Spring FU\PRN221_SE1501\Stuff\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\ref\Demo_JSON_Serialization.dll
+E:\THANH VAN\2022 Spring FU\PRN221_SE1501\Stuff\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\Demo_JSON_Serialization.pdb
+E:\THANH VAN\2022 Spring FU\PRN221_SE1501\Stuff\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\Demo_JSON_Serialization.genruntimeconfig.cache
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\bin\Debug\net5.0-windows\Demo_JSON_Serialization.exe
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\bin\Debug\net5.0-windows\Demo_JSON_Serialization.deps.json
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\bin\Debug\net5.0-windows\Demo_JSON_Serialization.runtimeconfig.json
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\bin\Debug\net5.0-windows\Demo_JSON_Serialization.runtimeconfig.dev.json
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\bin\Debug\net5.0-windows\Demo_JSON_Serialization.dll
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\bin\Debug\net5.0-windows\ref\Demo_JSON_Serialization.dll
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\bin\Debug\net5.0-windows\Demo_JSON_Serialization.pdb
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\Demo_JSON_Serialization.csproj.AssemblyReference.cache
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\MainWindow.g.cs
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\App.g.cs
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\Demo_JSON_Serialization_MarkupCompile.cache
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\Demo_JSON_Serialization_MarkupCompile.lref
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\MainWindow.baml
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\Demo_JSON_Serialization.g.resources
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\Demo_JSON_Serialization.GeneratedMSBuildEditorConfig.editorconfig
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\Demo_JSON_Serialization.AssemblyInfoInputs.cache
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\Demo_JSON_Serialization.AssemblyInfo.cs
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\Demo_JSON_Serialization.csproj.CoreCompileInputs.cache
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\Demo_JSON_Serialization.dll
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\ref\Demo_JSON_Serialization.dll
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\Demo_JSON_Serialization.pdb
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\Demo_JSON_Serialization.genruntimeconfig.cache
+E:\THANH VAN\2022 Fall\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\bin\Debug\net5.0-windows\Demo_JSON_Serialization.exe
+E:\THANH VAN\2022 Fall\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\bin\Debug\net5.0-windows\Demo_JSON_Serialization.deps.json
+E:\THANH VAN\2022 Fall\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\bin\Debug\net5.0-windows\Demo_JSON_Serialization.runtimeconfig.json
+E:\THANH VAN\2022 Fall\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\bin\Debug\net5.0-windows\Demo_JSON_Serialization.runtimeconfig.dev.json
+E:\THANH VAN\2022 Fall\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\bin\Debug\net5.0-windows\Demo_JSON_Serialization.dll
+E:\THANH VAN\2022 Fall\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\bin\Debug\net5.0-windows\Demo_JSON_Serialization.pdb
+E:\THANH VAN\2022 Fall\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\Demo_JSON_Serialization.csproj.AssemblyReference.cache
+E:\THANH VAN\2022 Fall\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\MainWindow.g.cs
+E:\THANH VAN\2022 Fall\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\App.g.cs
+E:\THANH VAN\2022 Fall\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\Demo_JSON_Serialization_MarkupCompile.cache
+E:\THANH VAN\2022 Fall\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\Demo_JSON_Serialization_MarkupCompile.lref
+E:\THANH VAN\2022 Fall\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\MainWindow.baml
+E:\THANH VAN\2022 Fall\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\Demo_JSON_Serialization.g.resources
+E:\THANH VAN\2022 Fall\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\Demo_JSON_Serialization.GeneratedMSBuildEditorConfig.editorconfig
+E:\THANH VAN\2022 Fall\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\Demo_JSON_Serialization.AssemblyInfoInputs.cache
+E:\THANH VAN\2022 Fall\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\Demo_JSON_Serialization.AssemblyInfo.cs
+E:\THANH VAN\2022 Fall\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\Demo_JSON_Serialization.csproj.CoreCompileInputs.cache
+E:\THANH VAN\2022 Fall\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\Demo_JSON_Serialization.dll
+E:\THANH VAN\2022 Fall\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\refint\Demo_JSON_Serialization.dll
+E:\THANH VAN\2022 Fall\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\Demo_JSON_Serialization.pdb
+E:\THANH VAN\2022 Fall\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\Demo_JSON_Serialization.genruntimeconfig.cache
+E:\THANH VAN\2022 Fall\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\ref\Demo_JSON_Serialization.dll
+E:\THANH VAN\2023 Spring\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\bin\Debug\net5.0-windows\Demo_JSON_Serialization.exe
+E:\THANH VAN\2023 Spring\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\bin\Debug\net5.0-windows\Demo_JSON_Serialization.deps.json
+E:\THANH VAN\2023 Spring\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\bin\Debug\net5.0-windows\Demo_JSON_Serialization.runtimeconfig.json
+E:\THANH VAN\2023 Spring\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\bin\Debug\net5.0-windows\Demo_JSON_Serialization.runtimeconfig.dev.json
+E:\THANH VAN\2023 Spring\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\bin\Debug\net5.0-windows\Demo_JSON_Serialization.dll
+E:\THANH VAN\2023 Spring\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\bin\Debug\net5.0-windows\Demo_JSON_Serialization.pdb
+E:\THANH VAN\2023 Spring\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\Demo_JSON_Serialization.csproj.AssemblyReference.cache
+E:\THANH VAN\2023 Spring\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\MainWindow.g.cs
+E:\THANH VAN\2023 Spring\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\App.g.cs
+E:\THANH VAN\2023 Spring\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\Demo_JSON_Serialization_MarkupCompile.cache
+E:\THANH VAN\2023 Spring\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\Demo_JSON_Serialization_MarkupCompile.lref
+E:\THANH VAN\2023 Spring\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\MainWindow.baml
+E:\THANH VAN\2023 Spring\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\Demo_JSON_Serialization.g.resources
+E:\THANH VAN\2023 Spring\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\Demo_JSON_Serialization.GeneratedMSBuildEditorConfig.editorconfig
+E:\THANH VAN\2023 Spring\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\Demo_JSON_Serialization.AssemblyInfoInputs.cache
+E:\THANH VAN\2023 Spring\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\Demo_JSON_Serialization.AssemblyInfo.cs
+E:\THANH VAN\2023 Spring\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\Demo_JSON_Serialization.csproj.CoreCompileInputs.cache
+E:\THANH VAN\2023 Spring\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\Demo_JSON_Serialization.dll
+E:\THANH VAN\2023 Spring\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\refint\Demo_JSON_Serialization.dll
+E:\THANH VAN\2023 Spring\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\Demo_JSON_Serialization.pdb
+E:\THANH VAN\2023 Spring\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\Demo_JSON_Serialization.genruntimeconfig.cache
+E:\THANH VAN\2023 Spring\PRN221\Others\Slot_05_06_XML_JSON\Demo_JSON_Serialization\obj\Debug\net5.0-windows\ref\Demo_JSON_Serialization.dll

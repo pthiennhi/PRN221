@@ -1,0 +1,148 @@
+D:\Demo\FU\Adv.NET\DemoWPFControls\bin\Debug\net5.0-windows\DemoWPFControls.exe
+D:\Demo\FU\Adv.NET\DemoWPFControls\bin\Debug\net5.0-windows\DemoWPFControls.deps.json
+D:\Demo\FU\Adv.NET\DemoWPFControls\bin\Debug\net5.0-windows\DemoWPFControls.runtimeconfig.json
+D:\Demo\FU\Adv.NET\DemoWPFControls\bin\Debug\net5.0-windows\DemoWPFControls.runtimeconfig.dev.json
+D:\Demo\FU\Adv.NET\DemoWPFControls\bin\Debug\net5.0-windows\DemoWPFControls.dll
+D:\Demo\FU\Adv.NET\DemoWPFControls\bin\Debug\net5.0-windows\ref\DemoWPFControls.dll
+D:\Demo\FU\Adv.NET\DemoWPFControls\bin\Debug\net5.0-windows\DemoWPFControls.pdb
+D:\Demo\FU\Adv.NET\DemoWPFControls\obj\Debug\net5.0-windows\DemoWPFControls.csprojAssemblyReference.cache
+D:\Demo\FU\Adv.NET\DemoWPFControls\obj\Debug\net5.0-windows\App.g.cs
+D:\Demo\FU\Adv.NET\DemoWPFControls\obj\Debug\net5.0-windows\DemoWPFControls_MarkupCompile.cache
+D:\Demo\FU\Adv.NET\DemoWPFControls\obj\Debug\net5.0-windows\DemoWPFControls.g.resources
+D:\Demo\FU\Adv.NET\DemoWPFControls\obj\Debug\net5.0-windows\DemoWPFControls.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo\FU\Adv.NET\DemoWPFControls\obj\Debug\net5.0-windows\DemoWPFControls.AssemblyInfoInputs.cache
+D:\Demo\FU\Adv.NET\DemoWPFControls\obj\Debug\net5.0-windows\DemoWPFControls.AssemblyInfo.cs
+D:\Demo\FU\Adv.NET\DemoWPFControls\obj\Debug\net5.0-windows\DemoWPFControls.csproj.CoreCompileInputs.cache
+D:\Demo\FU\Adv.NET\DemoWPFControls\obj\Debug\net5.0-windows\DemoWPFControls.dll
+D:\Demo\FU\Adv.NET\DemoWPFControls\obj\Debug\net5.0-windows\ref\DemoWPFControls.dll
+D:\Demo\FU\Adv.NET\DemoWPFControls\obj\Debug\net5.0-windows\DemoWPFControls.pdb
+D:\Demo\FU\Adv.NET\DemoWPFControls\obj\Debug\net5.0-windows\DemoWPFControls.genruntimeconfig.cache
+D:\Demo\FU\Adv.NET\DemoWPFControls\obj\Debug\net5.0-windows\DemoComboBox.baml
+D:\Demo\FU\Adv.NET\DemoWPFControls\obj\Debug\net5.0-windows\DemoComboBox.g.cs
+D:\Demo\FU\Adv.NET\DemoWPFControls\obj\Debug\net5.0-windows\DemoDataGrid.g.cs
+D:\Demo\FU\Adv.NET\DemoWPFControls\obj\Debug\net5.0-windows\DemoWPFControls_MarkupCompile.lref
+D:\Demo\FU\Adv.NET\DemoWPFControls\obj\Debug\net5.0-windows\DemoDataGrid.baml
+D:\Demo\FU\Adv.NET\DemoWPFControls\obj\Debug\net5.0-windows\DemoStyle.g.cs
+D:\Demo\FU\Adv.NET\DemoWPFControls\obj\Debug\net5.0-windows\DemoStyle.baml
+D:\Demo\FU\Adv.NET\DemoWPFControls\obj\Debug\net5.0-windows\DemoDataTemplate.g.cs
+D:\Demo\FU\Adv.NET\DemoWPFControls\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Demo\FU\Adv.NET\DemoWPFControls\obj\Debug\net5.0-windows\DemoDataTemplate.baml
+D:\Demo\FU\Adv.NET\DemoWPFControls\obj\Debug\net5.0-windows\SampleDataTemplate.g.cs
+D:\Demo\FU\Adv.NET\DemoWPFControls\obj\Debug\net5.0-windows\SampleDataTemplate.baml
+D:\Demo\FU\Adv.NET\DemoWPFControls\obj\Debug\net5.0-windows\DemoEvent.g.cs
+D:\Demo\FU\Adv.NET\DemoWPFControls\obj\Debug\net5.0-windows\DemoEvent.baml
+D:\Demo\FU\Adv.NET\DemoWPFControls\obj\Debug\net5.0-windows\DemoTunnelEvent.g.cs
+D:\Demo\FU\Adv.NET\DemoWPFControls\obj\Debug\net5.0-windows\DemoTunnelEvent.baml
+D:\Demo\FU\Adv.NET\DemoWPFControls\obj\Debug\net5.0-windows\DemoBubbleEvent.g.cs
+D:\Demo\FU\Adv.NET\DemoWPFControls\obj\Debug\net5.0-windows\DemoBubbleEvent.baml
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\DemoWPFControls\bin\Debug\net5.0-windows\DemoWPFControls.exe
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\DemoWPFControls\bin\Debug\net5.0-windows\DemoWPFControls.deps.json
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\DemoWPFControls\bin\Debug\net5.0-windows\DemoWPFControls.runtimeconfig.json
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\DemoWPFControls\bin\Debug\net5.0-windows\DemoWPFControls.runtimeconfig.dev.json
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\DemoWPFControls\bin\Debug\net5.0-windows\DemoWPFControls.dll
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\DemoWPFControls\bin\Debug\net5.0-windows\ref\DemoWPFControls.dll
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\DemoWPFControls\bin\Debug\net5.0-windows\DemoWPFControls.pdb
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\DemoWPFControls\obj\Debug\net5.0-windows\DemoWPFControls.csproj.AssemblyReference.cache
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\DemoWPFControls\obj\Debug\net5.0-windows\DemoComboBox.baml
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\DemoWPFControls\obj\Debug\net5.0-windows\DemoBubbleEvent.g.cs
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\DemoWPFControls\obj\Debug\net5.0-windows\DemoComboBox.g.cs
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\DemoWPFControls\obj\Debug\net5.0-windows\DemoDataGrid.g.cs
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\DemoWPFControls\obj\Debug\net5.0-windows\DemoDataTemplate.g.cs
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\DemoWPFControls\obj\Debug\net5.0-windows\DemoEvent.g.cs
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\DemoWPFControls\obj\Debug\net5.0-windows\DemoStyle.g.cs
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\DemoWPFControls\obj\Debug\net5.0-windows\DemoTunnelEvent.g.cs
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\DemoWPFControls\obj\Debug\net5.0-windows\SampleDataTemplate.g.cs
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\DemoWPFControls\obj\Debug\net5.0-windows\App.g.cs
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\DemoWPFControls\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\DemoWPFControls\obj\Debug\net5.0-windows\DemoWPFControls_MarkupCompile.cache
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\DemoWPFControls\obj\Debug\net5.0-windows\DemoWPFControls_MarkupCompile.lref
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\DemoWPFControls\obj\Debug\net5.0-windows\DemoBubbleEvent.baml
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\DemoWPFControls\obj\Debug\net5.0-windows\DemoDataGrid.baml
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\DemoWPFControls\obj\Debug\net5.0-windows\DemoDataTemplate.baml
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\DemoWPFControls\obj\Debug\net5.0-windows\DemoEvent.baml
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\DemoWPFControls\obj\Debug\net5.0-windows\DemoStyle.baml
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\DemoWPFControls\obj\Debug\net5.0-windows\DemoTunnelEvent.baml
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\DemoWPFControls\obj\Debug\net5.0-windows\SampleDataTemplate.baml
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\DemoWPFControls\obj\Debug\net5.0-windows\DemoWPFControls.g.resources
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\DemoWPFControls\obj\Debug\net5.0-windows\DemoWPFControls.GeneratedMSBuildEditorConfig.editorconfig
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\DemoWPFControls\obj\Debug\net5.0-windows\DemoWPFControls.AssemblyInfoInputs.cache
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\DemoWPFControls\obj\Debug\net5.0-windows\DemoWPFControls.AssemblyInfo.cs
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\DemoWPFControls\obj\Debug\net5.0-windows\DemoWPFControls.csproj.CoreCompileInputs.cache
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\DemoWPFControls\obj\Debug\net5.0-windows\DemoWPFControls.dll
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\DemoWPFControls\obj\Debug\net5.0-windows\ref\DemoWPFControls.dll
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\DemoWPFControls\obj\Debug\net5.0-windows\DemoWPFControls.pdb
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPF\DemoWPFControls\obj\Debug\net5.0-windows\DemoWPFControls.genruntimeconfig.cache
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\bin\Debug\net5.0-windows\DemoWPFControls.exe
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\bin\Debug\net5.0-windows\DemoWPFControls.deps.json
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\bin\Debug\net5.0-windows\DemoWPFControls.runtimeconfig.json
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\bin\Debug\net5.0-windows\DemoWPFControls.runtimeconfig.dev.json
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\bin\Debug\net5.0-windows\DemoWPFControls.dll
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\bin\Debug\net5.0-windows\ref\DemoWPFControls.dll
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\bin\Debug\net5.0-windows\DemoWPFControls.pdb
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\DemoWPFControls.csproj.AssemblyReference.cache
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\DemoComboBox.baml
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\DemoBubbleEvent.g.cs
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\DemoComboBox.g.cs
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\DemoDataGrid.g.cs
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\DemoDataTemplate.g.cs
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\DemoEvent.g.cs
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\DemoStyle.g.cs
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\DemoTunnelEvent.g.cs
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\SampleDataTemplate.g.cs
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\App.g.cs
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\DemoWPFControls_MarkupCompile.cache
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\DemoWPFControls_MarkupCompile.lref
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\DemoBubbleEvent.baml
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\DemoDataGrid.baml
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\DemoDataTemplate.baml
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\DemoEvent.baml
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\DemoStyle.baml
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\DemoTunnelEvent.baml
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\SampleDataTemplate.baml
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\DemoWPFControls.g.resources
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\DemoWPFControls.GeneratedMSBuildEditorConfig.editorconfig
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\DemoWPFControls.AssemblyInfoInputs.cache
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\DemoWPFControls.AssemblyInfo.cs
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\DemoWPFControls.csproj.CoreCompileInputs.cache
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\DemoWPFControls.dll
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\ref\DemoWPFControls.dll
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\DemoWPFControls.pdb
+E:\THANH VAN\2022 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\DemoWPFControls.genruntimeconfig.cache
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\bin\Debug\net5.0-windows\DemoWPFControls.exe
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\bin\Debug\net5.0-windows\DemoWPFControls.deps.json
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\bin\Debug\net5.0-windows\DemoWPFControls.runtimeconfig.json
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\bin\Debug\net5.0-windows\DemoWPFControls.runtimeconfig.dev.json
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\bin\Debug\net5.0-windows\DemoWPFControls.dll
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\bin\Debug\net5.0-windows\DemoWPFControls.pdb
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\DemoWPFControls.csproj.AssemblyReference.cache
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\DemoComboBox.baml
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\DemoBubbleEvent.g.cs
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\DemoComboBox.g.cs
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\DemoDataGrid.g.cs
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\DemoDataTemplate.g.cs
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\DemoEvent.g.cs
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\DemoStyle.g.cs
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\DemoTunnelEvent.g.cs
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\SampleDataTemplate.g.cs
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\App.g.cs
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\DemoWPFControls_MarkupCompile.cache
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\DemoWPFControls_MarkupCompile.lref
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\DemoBubbleEvent.baml
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\DemoDataGrid.baml
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\DemoDataTemplate.baml
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\DemoEvent.baml
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\DemoStyle.baml
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\DemoTunnelEvent.baml
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\SampleDataTemplate.baml
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\DemoWPFControls.g.resources
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\DemoWPFControls.GeneratedMSBuildEditorConfig.editorconfig
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\DemoWPFControls.AssemblyInfoInputs.cache
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\DemoWPFControls.AssemblyInfo.cs
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\DemoWPFControls.csproj.CoreCompileInputs.cache
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\DemoWPFControls.dll
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\refint\DemoWPFControls.dll
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\DemoWPFControls.pdb
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\DemoWPFControls.genruntimeconfig.cache
+E:\THANH VAN\2023 Summer\PRN221\Others\Slot_02_03_04_WPFDemo\DemoWPFControls\obj\Debug\net5.0-windows\ref\DemoWPFControls.dll

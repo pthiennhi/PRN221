@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BPxHY9d4avJS5NYkWZktwSPxuABBnLzTce1+y4suiqpzwnX8YwvpJQTQ9u9VWUqJKIP4hmJR2NSrwSPp4jhvxw==",
+  "success": true,
+  "projectFilePath": "E:\\THANH VAN\\2023 Summer\\PRN221\\Others\\Slot_02_03_04_WPFDemo\\MyWPFApp\\MyWPFApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
