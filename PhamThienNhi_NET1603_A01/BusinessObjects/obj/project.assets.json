@@ -3174,26 +3174,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\minhn\\.nuget\\packages\\": {}
+    "/Users/thiennhi/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\thiennhi\\PRN221\\PhamThienNhi_NET1603_A01\\BusinessObjects\\BusinessObjects.csproj",
+      "projectUniqueName": "/Users/thiennhi/Documents/PRN221/PhamThienNhi_NET1603_A01/BusinessObjects/BusinessObjects.csproj",
       "projectName": "BusinessObjects",
-      "projectPath": "D:\\thiennhi\\PRN221\\PhamThienNhi_NET1603_A01\\BusinessObjects\\BusinessObjects.csproj",
-      "packagesPath": "C:\\Users\\minhn\\.nuget\\packages\\",
-      "outputPath": "D:\\thiennhi\\PRN221\\PhamThienNhi_NET1603_A01\\BusinessObjects\\obj\\",
+      "projectPath": "/Users/thiennhi/Documents/PRN221/PhamThienNhi_NET1603_A01/BusinessObjects/BusinessObjects.csproj",
+      "packagesPath": "/Users/thiennhi/.nuget/packages/",
+      "outputPath": "/Users/thiennhi/Documents/PRN221/PhamThienNhi_NET1603_A01/BusinessObjects/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\minhn\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/thiennhi/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -3257,7 +3256,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.308/RuntimeIdentifierGraph.json"
       }
     }
   }
