@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{606F7861-FCD6-4C9D-B169-F8B7ACB11942}|http">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RazorPages/Program.cs">
+    <Files>
+      <File FileName="RazorPages/Program.cs" Line="1" Column="1" />
+      <File FileName="RazorPages/Pages/Error.cshtml.cs" />
+      <File FileName="RazorPages/Pages/Error.cshtml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RazorPages" expanded="True">
+            <Node name="RazorPages" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="Pages" expanded="True">
+                <Node name="Error.cshtml" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="js" expanded="True" />
+                <Node name="lib" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RazorPages PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
